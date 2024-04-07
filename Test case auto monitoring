@@ -7,3 +7,13 @@
 - **columns and fields mapping:** map all excel columns with required Jira fields for direct sync.
 
 ## installation 
+1. clone the repository to your desktop.
+
+git clone
+
+https://github.com/yourusername/test-case-management.git
+
+2. install the dependencies :
+
+npm install
+

@@ -9,14 +9,3 @@ This project repository demonstrates the integration of test case Management too
 - **auto sync:** real time basis read and sync the test cases and results from excel tesr book to Jira.
 - **columns and fields mapping:** map all excel columns with required Jira fields for direct sync.
 
-## installation 
-1. clone the repository to your desktop.
-
-git clone
-
-https://github.com/PriyaUshadevi/test-case-management.git
-
-2. install the dependencies :
-
-npm install
-

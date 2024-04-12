@@ -1,0 +1,11 @@
+## installation 
+1. clone the repository to your desktop.
+
+git clone
+
+https://github.com/PriyaUshadevi/test-case-management.git
+
+2. install the dependencies :
+
+npm install
+

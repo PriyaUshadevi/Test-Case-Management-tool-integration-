@@ -14,7 +14,7 @@ This project repository demonstrates the integration of test case Management too
 
 git clone
 
-https://github.com/yourusername/test-case-management.git
+https://github.com/PriyaUshadevi/test-case-management.git
 
 2. install the dependencies :
 

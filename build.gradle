@@ -1,0 +1,12 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Add your dependencies here
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.7.0'
+}

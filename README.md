@@ -9,3 +9,20 @@ This project repository demonstrates the integration of test case Management too
 - **auto sync:** real time basis read and sync the test cases and results from excel tesr book to Jira.
 - **columns and fields mapping:** map all excel columns with required Jira fields for direct sync.
 
+# Test Case Management Tool Integration (Jira)
+
+## Overview
+This project demonstrates integration between a custom test case management system and Jira.
+
+## Key Capabilities
+- Automated test case synchronization
+- Seamless Jira integration
+- Real-time updates
+
+## Why This Matters
+Reduces manual effort and improves traceability between test cases and Jira stories.
+
+## Tech Stack
+- API Integration
+- Jira
+- Automation scripts

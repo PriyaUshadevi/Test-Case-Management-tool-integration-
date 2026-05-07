@@ -1,11 +1,9 @@
-## installation 
-1. clone the repository to your desktop.
+Test case automation workflow details are maintained in README.md.
 
-git clone
+Install Python dependencies with:
 
-https://github.com/PriyaUshadevi/test-case-management.git
+python -m pip install -r requirements.txt
 
-2. install the dependencies :
+Run tests with:
 
-npm install
-
+python -m unittest discover -s tests -v

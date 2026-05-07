@@ -26,3 +26,14 @@ Reduces manual effort and improves traceability between test cases and Jira stor
 - API Integration
 - Jira
 - Automation scripts
+
+
+## 🔄 Sample Workflow
+
+1. QA user uploads test cases
+2. Tool validates structure
+3. Integration layer prepares Jira payload
+4. Test cases are synchronized to Jira/Xray
+
+## 📌 Note
+This repository demonstrates integration design concepts and sample implementation structure for enterprise QA workflows.
